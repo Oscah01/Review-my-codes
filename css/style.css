@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+    color: black;
+    font-family: calibri;
+    
+    
+  }
+
+  #main {
+      width : 500px;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  img {
+      width : 100%
+  }
+  #img.caption {  width: 450px;
+  
+  
+}
+  
+  
+  
+  #image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  
+  } 
